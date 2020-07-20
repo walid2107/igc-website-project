@@ -1,0 +1,20 @@
+{
+    "short_name": "IGC",
+    "name": "Istic Google Club",
+    "icons": [{
+            "src": "/media/logo180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+},
+        {
+            "src": "/media/logo180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+}
+],
+    "start_url": "/index.html",
+    "background_color": "#7951FF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#33b5e5"
+}

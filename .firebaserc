@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "myapp-9b820",
+    "e": "igcsite-cb3e6",
+    "g": "igcsite-cb3e6",
+    "staging": "igcsite-cb3e6",
+    "r": "revision-a8312"
+  }
+}
